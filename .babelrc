@@ -1,0 +1,10 @@
+// Archivo de configuración de babel
+//Vrear un objeto donde se van añadir las configuraciones
+{
+    "presets": [
+        "@babel/preset-env"
+    ],
+    "plugins": [
+        "@babel/plugin-transform-runtime"
+    ]
+}

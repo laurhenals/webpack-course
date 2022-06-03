@@ -26,7 +26,7 @@ module.exports = {
     assetModuleFilename: 'assets/[hash][ext][query]'
   },
   mode: 'development',
-  watch: true,
+//   watch: true,
   //Con qué extensión se va a guardar el archivo compilado.
   resolve: {
     extensions: [".js", ".jsx"],
